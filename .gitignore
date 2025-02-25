@@ -1,0 +1,9 @@
+# Ignore vim temporary files
+*.swp
+*.swo
+
+# Ignore log files
+*.log
+
+# Ignore test files
+
